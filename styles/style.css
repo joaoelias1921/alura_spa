@@ -179,6 +179,36 @@ nav ul li a:hover {
   border-color: #F1E0AC;
 }
 
+#curiosidades {
+  padding: 1rem;
+  text-align: center;
+  margin: 5px;
+}
+
+#curiosidades h3 {
+  color: #495371;
+  font-size: 1.2rem;
+  padding-bottom: 10px;
+}
+
+#curiosidades h4 {
+  color: #74959A;
+  font-size: 1rem;
+  padding-bottom: 20px;
+}
+
+#curiosidades p {
+  margin-top: 5px;
+  color: #495371;
+  border-bottom: 3px solid #495371;
+  padding-bottom: 25px;
+}
+
+#curiosidades .img-container {
+  border-bottom: 3px solid #495371;
+  margin-bottom: 1.2rem;
+}
+
 footer {
   text-align: center;
   font-size: 1.5rem;
